@@ -11,7 +11,7 @@ Some things I had to install on Ubuntu to get things going:
 sudo apt install \
   fd-find \
   luarocks \
-  python3-env
+  python3-venv
 ```
 
 ### `rust-analyzer`
