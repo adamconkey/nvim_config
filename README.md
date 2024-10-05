@@ -8,7 +8,10 @@ Some things I had to install on Ubuntu to get things going:
 
 ### Apt Installs
 ```bash
-sudo apt install python3-env
+sudo apt install \
+  fd-find \
+  luarocks \
+  python3-env
 ```
 
 ### `rust-analyzer`
